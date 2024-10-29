@@ -178,8 +178,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![Uploading WhatsApp Image 2024-10-29 at 10.04.56_f32a757d.jpg…]()
-![Uploading WhatsApp Image 2024-10-29 at 10.04.56_ed9a8262.jpg…]()
+![WhatsApp Image 2024-10-29 at 10 04 56_f73c3e66 1](https://github.com/user-attachments/assets/8c15c2de-f098-44b8-84db-c39d06d9b722)
+![WhatsApp Image 2024-10-29 at 10 04 56_1770dcec 2](https://github.com/user-attachments/assets/54ab539a-5863-4336-b005-37d1b0f0d80d)
+
+
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
