@@ -180,6 +180,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of proteus  :
 
 ![pmc1](https://github.com/user-attachments/assets/c7bc75cd-e808-41d4-b9bf-9beb6bf40fe4)
+![pmc2](https://github.com/user-attachments/assets/9f907b37-a690-4be2-93a0-059a548bf780)
 
 
 
